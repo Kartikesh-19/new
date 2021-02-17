@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+}
+.container{
+    height: 70vh;
+    width: 70%;
+    background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.6)),url(kat1.jpg);
+    background-position: center;
+    background-size:contain ;
+    overflow-x: hidden;
+    position:relative;
+
+
+}
+.update1
+{
+    display:  none;
+}
